@@ -10,3 +10,5 @@ echo strrev($welcome);
 echo "<br>";
 echo str_word_count($welcome);
 echo "<br>";
+$dt="fortnight";
+echo $dt;
